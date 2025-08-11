@@ -40,7 +40,7 @@ Projects covering decision making, loops, and program flow control.
 
 The aim is to continuously add mini projects covering all major Java topics like:
 
-- [Basics & Variables](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/01.%20Data_Types_%26_Variables))  
+- [Basics & Variables](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/01.%20Data_Types_%26_Variables)
 - [Control Flow](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/02.%20Control_Flow)  
 - Methods  
 - Object-Oriented Programming  
