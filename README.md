@@ -17,13 +17,13 @@ Projects focused on understanding variables, basic arithmetic, and simple formul
 - [BMI Calculator](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/01.%20Data_Types_%26_Variables/04.%20BMI_Calculator)  
 - [Distance Converter](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/01.%20Data_Types_%26_Variables/05.%20Distance_Converter)  
 
-### [2. Control Flow (including Loops)](./2.%20Control_Flow)  
+### [2. Control Flow (including Loops)](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/02.%20Control_Flow)  
 Projects covering decision making, loops, and program flow control.  
-- Student Grade Calculator  
-- ATM Simulator  
-- Number Guessing Game  
-- Basic Calculator  
-- Multiplication Table Generator  
+- [Student Grade Calculator](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/02.%20Control_Flow/01.%20Student_Grade_Calculator)  
+- [ATM Simulator](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/02.%20Control_Flow/02.%20ATM_Simulator)  
+- [Number Guessing Game](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/02.%20Control_Flow/03.%20Number_Guessing_Game)  
+- [Basic Calculator](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/02.%20Control_Flow/04.%20Basic_Calculator)  
+- [Multiplication Table Generator](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/02.%20Control_Flow/05.%20Multiplication_Table_Generator)  
 
 ---
 
