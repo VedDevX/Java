@@ -1,5 +1,5 @@
 # Java
-A curated collection of beginner-friendly Java mini projects organized by core topics. This repository covers basics & variables, control flow (including loops), functions, and more—helping learners build a solid foundation through practical coding exercises.
+A curated collection of beginner-friendly Java mini projects organized by core topics. This repository covers basics & variables, control flow, OOPS, and more—helping learners build a solid foundation through practical coding exercises.
 
 # Java Mini Projects Repository ☕
 
