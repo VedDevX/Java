@@ -9,13 +9,13 @@ Welcome to my **Java Mini Projects** repository! This repo is dedicated to organ
 
 ## 🚀 What’s Inside?
 
-### [1. Basics & Variables](./1.%20Basics_%26_Variables)  
+### [1. Basics & Variables](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/01.%20Data_Types_%26_Variables)  
 Projects focused on understanding variables, basic arithmetic, and simple formulas.  
-- Temperature Converter  
-- Simple Interest Calculator  
-- Currency Converter  
-- BMI Calculator  
-- Distance Converter  
+- [Temperature Converter](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/01.%20Data_Types_%26_Variables/01.%20Temperature_Converter)  
+- [Simple Interest Calculator](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/01.%20Data_Types_%26_Variables/02.%20Simple_Interest_Calculator)  
+- [Currency Converter](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/01.%20Data_Types_%26_Variables/03.%20Currency_Converter_INR_%26_USD)  
+- [BMI Calculator](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/01.%20Data_Types_%26_Variables/04.%20BMI_Calculator)  
+- [Distance Converter](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/01.%20Data_Types_%26_Variables/05.%20Distance_Converter)  
 
 ### [2. Control Flow (including Loops)](./2.%20Control_Flow)  
 Projects covering decision making, loops, and program flow control.  
@@ -24,10 +24,6 @@ Projects covering decision making, loops, and program flow control.
 - Number Guessing Game  
 - Basic Calculator  
 - Multiplication Table Generator  
-
-### [3. Functions & Methods](./3.%20Functions_%26_Methods)  
-Projects focused on reusable code blocks, methods, and modular programming.  
-- (Add your projects here)  
 
 ---
 
