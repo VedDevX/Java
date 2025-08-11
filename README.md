@@ -17,7 +17,7 @@ Projects focused on understanding variables, basic arithmetic, and simple formul
 - [BMI Calculator](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/01.%20Data_Types_%26_Variables/04.%20BMI_Calculator)  
 - [Distance Converter](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/01.%20Data_Types_%26_Variables/05.%20Distance_Converter)  
 
-### [2. Control Flow (including Loops)](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/02.%20Control_Flow)  
+### [2. Control Flow](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/02.%20Control_Flow)  
 Projects covering decision making, loops, and program flow control.  
 - [Student Grade Calculator](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/02.%20Control_Flow/01.%20Student_Grade_Calculator)  
 - [ATM Simulator](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/02.%20Control_Flow/02.%20ATM_Simulator)  
@@ -40,9 +40,9 @@ Projects covering decision making, loops, and program flow control.
 
 The aim is to continuously add mini projects covering all major Java topics like:
 
-- Basics & Variables  
-- Control Flow & Loops  
-- Functions & Methods  
+- [Basics & Variables](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/01.%20Data_Types_%26_Variables))  
+- [Control Flow](https://github.com/VedDevX/Java/tree/main/Java/Project_Based_Learning/02.%20Control_Flow)  
+- Methods  
 - Object-Oriented Programming  
 - Data Structures  
 - File Handling  
